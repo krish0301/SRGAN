@@ -1,4 +1,4 @@
-# SRGAN Super-Resolution Pipeline (Google Colab)
+# SRGAN Super-Resolution Pipeline 
 
 > **State-of-the-art single-image super-resolution**  
 > End-to-end SRGAN implementation with patch-based training and quantitative evaluation.
@@ -141,4 +141,4 @@ After completion, inspect `results/` for qualitative comparisons and view printe
 
 ---
 
-*Prepared by [Your Name], Senior AI Engineer*
+*Prepared by Krish Suhani
